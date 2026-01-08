@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "もう切ないとは言わせない",
+  "base_artist": "gesunokiwamiotome",
+  "createdAt": "2026-01-08T14:38:14.261246Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "もう切ないとは言わせない",
+      "artist": "Gesu No Kiwami Otome",
+      "has_synced": true,
+      "path": "select/01_もう切ないとは言わせない_Gesu_No_Kiwami_Otome.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "もう切ないとは言わせない",
+      "artist": "ゲスの極み乙女。",
+      "has_synced": false,
+      "path": "select/pl_01_もう切ないとは言わせない_ゲスの極み乙女。.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "もう切ないとは言わせない",
+      "artist": "ゲスの極み乙女。",
+      "has_synced": false,
+      "path": "select/pl_02_もう切ないとは言わせない_ゲスの極み乙女。.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "もう切ないとは言わせない",
+      "artist": "ゲスの極み乙女。",
+      "has_synced": false,
+      "path": "select/pl_03_もう切ないとは言わせない_ゲスの極み乙女。.txt"
+    }
+  ]
+}
